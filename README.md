@@ -1,4 +1,4 @@
-# Custom-Salesforce-Task-Manager-for-Campaign-Members
+# Custom Salesforce Task Manager for Campaign Members
 Datatable in Salesforce using Aura and Apex to create a custom Task Manger component for 'Campaign Member' Object
 
 <h2><b>Introduction</h2></b>
