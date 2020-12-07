@@ -74,3 +74,8 @@ Datatable in Salesforce using Aura and Apex to create a custom Task Manger compo
 </table>
 </ui>
 
+<h2><b>Component Preview</h2></b>
+
+<a href="https://ibb.co/djn27gC"><img src="https://i.ibb.co/jb7MHR0/Lightning-Experience-Salesforce.gif" alt="Lightning-Experience-Salesforce" border="0"></a>
+
+
